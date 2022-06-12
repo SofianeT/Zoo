@@ -18,6 +18,8 @@
   
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![iMovie](https://img.shields.io/badge/-iMovie-05122A?style=flat&logo=iMovie)&nbsp;
+  
+## La JavaDOC est présente dans ce répertoire Github ✨
 
 ## Projet : https://www.mickael-martin-nevot.com/institut-g4/java/?:s13-projet.pdf
 

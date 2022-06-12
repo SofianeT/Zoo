@@ -1,0 +1,10 @@
+controllers
+models.Animal
+models.Animal.Mammal
+models.Animal.Other
+models.Employee
+models.Enclosure
+models.Interface
+models.Zoo
+views
+ZooMain
